@@ -3,3 +3,4 @@
 #include <stdio.h>
 #include <Application.h>
 #include <EnteryPoint.h>
+#include <Log.h>
